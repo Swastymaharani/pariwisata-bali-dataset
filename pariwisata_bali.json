@@ -52,6 +52,33 @@
                         }
                     ],
                     "context": "Museum Bali (dikenal juga sebagai Museum Unit Pelaksana Teknis Dinas Kebudayaan Bali) adalah museum negara yang berada di Kota Denpasar, Bali. Museum Bali menjadi museum penyimpanan peninggalan masa lampau manusia dan etnografi. Koleksi museum terdiri dari benda-benda etnografi antara lain peralatan dan perlengkapan hidup, kesenian, keagamaan, bahasa tulisan, dan lainnya yang mencerminkan kehidupan dan perkembangan kebudayaan Bali di masa lampau.."
+                },
+                {
+                    "qas": [
+                        {
+                            "question": "Museum Bali mulai dibuka untuk khalayak umum pada tanggal berapa?",
+                            "id": "56be85543aeaaa14008c9063",
+                            "answers": [
+                                {
+                                    "text": "8 Desember 1932",
+                                    "answer_start": 60
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Museum Bali terdiri dari apa saja?",
+                            "id": "56be85543aeaaa14008c9065",
+                            "answers": [
+                                {
+                                    "text": "Gedung Tabanan, Gedung Karangasem dan Gedung Buleleng",
+                                    "answer_start": 102
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "Museum Bali mulai dibuka untuk khalayak umum pada tanggal 8 Desember 1932. Museum Bali terdiri dari Gedung Tabanan, Gedung Karangasem dan Gedung Buleleng dibuka untuk pameran tetap dengan koleksi dari benda-benda prasejarah, sejarah, etnografi termasuk seni rupa."
                 }
             ]
         }
